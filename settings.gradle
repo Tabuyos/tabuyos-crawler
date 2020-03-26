@@ -1,0 +1,3 @@
+rootProject.name = 'tabuyos-crawler'
+include 'crawler-parse'
+
